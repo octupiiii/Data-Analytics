@@ -864,17 +864,7 @@
                 "x": 900,
                 "y": 490
               }
-            ],
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead"
-              ],
-              "name": null
-            }
+            ]
           },
           {
             "position": {
@@ -1128,7 +1118,7 @@
             },
             "attrs": {
               "text": {
-                "text": "LPAD"
+                "text": "LDAP"
               },
               "topLine": {
                 "strokeWidth": 1.5,
@@ -1227,7 +1217,7 @@
             "zIndex": 13,
             "data": {
               "type": "tm.Store",
-              "name": "LPAD",
+              "name": "LDAP",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
