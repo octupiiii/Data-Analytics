@@ -146,12 +146,25 @@
                   "score": ""
                 },
                 {
+                  "id": "baceae0c-5bef-40ca-beb5-60af409e5807",
+                  "title": "Customer Account Spoofing",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Spoofing",
+                  "description": "An attacker could impersonate a legitimate customer to place fraudulent orders or access their order history.",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 23,
+                  "score": ""
+                },
+                {
                   "id": "758c063e-f502-4e30-ab49-2dcd7ab3cc5e",
                   "title": "Web Application Server Spoofing",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Spoofing",
-                  "description": "An attacker might set up a fraudulent web server to phish user credentials or intercept sensitive data.",
+                  "description": "123An attacker might set up a fraudulent web server to phish user credentials or intercept sensitive data.",
                   "mitigation": "Provide remediation for this threat or a reason if status is N/A",
                   "modelType": "STRIDE",
                   "new": false,
