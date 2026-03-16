@@ -415,7 +415,7 @@
               "threats": [
   {
     "id": "1e78c3b5-1234-4b12-a123-000000000001",
-    "title": "T-001 Customer Account Spoofing",
+    "title": "Customer Account Spoofing",
     "status": "Open",
     "severity": "Medium",
     "type": "Spoofing",
@@ -428,7 +428,7 @@
   },
   {
     "id": "2e78c3b5-1234-4b12-a123-000000000002",
-    "title": "T-002 Staff Account Spoofing",
+    "title": "Staff Account Spoofing",
     "status": "Open",
     "severity": "Medium",
     "type": "Spoofing",
@@ -441,7 +441,7 @@
   },
   {
     "id": "3e78c3b5-1234-4b12-a123-000000000003",
-    "title": "T-003 Web Application Server Spoofing",
+    "title": "Web Application Server Spoofing",
     "status": "Open",
     "severity": "Medium",
     "type": "Spoofing",
@@ -454,7 +454,7 @@
   },
   {
     "id": "4e78c3b5-1234-4b12-a123-000000000004",
-    "title": "T-004 Order Data Tampering",
+    "title": "Order Data Tampering",
     "status": "Open",
     "severity": "Medium",
     "type": "Tampering",
@@ -467,7 +467,7 @@
   },
   {
     "id": "5e78c3b5-1234-4b12-a123-000000000005",
-    "title": "T-005 Menu Data Tampering",
+    "title": "Menu Data Tampering",
     "status": "Open",
     "severity": "Medium",
     "type": "Tampering",
@@ -480,7 +480,7 @@
   },
   {
     "id": "6e78c3b5-1234-4b12-a123-000000000006",
-    "title": "T-006 Sales Report Tampering",
+    "title": "Sales Report Tampering",
     "status": "Open",
     "severity": "Medium",
     "type": "Tampering",
@@ -493,7 +493,7 @@
   },
   {
     "id": "7e78c3b5-1234-4b12-a123-000000000007",
-    "title": "T-007 Application Code/Configuration Tampering",
+    "title": "Application Code/Configuration Tampering",
     "status": "Open",
     "severity": "Medium",
     "type": "Tampering",
@@ -506,7 +506,7 @@
   },
   {
     "id": "8e78c3b5-1234-4b12-a123-000000000008",
-    "title": "T-008 Fraudulent Order Repudiation",
+    "title": "Fraudulent Order Repudiation",
     "status": "Open",
     "severity": "Medium",
     "type": "Repudiation",
@@ -519,7 +519,7 @@
   },
   {
     "id": "9e78c3b5-1234-4b12-a123-000000000009",
-    "title": "T-009 Staff Action Repudiation",
+    "title": "Staff Action Repudiation",
     "status": "Open",
     "severity": "Medium",
     "type": "Repudiation",
@@ -532,7 +532,7 @@
   },
   {
     "id": "ae78c3b5-1234-4b12-a123-000000000010",
-    "title": "T-010 Customer PII Disclosure",
+    "title": "Customer PII Disclosure",
     "status": "Open",
     "severity": "High",
     "type": "Information Disclosure",
@@ -545,7 +545,7 @@
   },
   {
     "id": "be78c3b5-1234-4b12-a123-000000000011",
-    "title": "T-011 Staff Credential Disclosure",
+    "title": "Staff Credential Disclosure",
     "status": "Open",
     "severity": "High",
     "type": "Information Disclosure",
@@ -558,7 +558,7 @@
   },
   {
     "id": "ce78c3b5-1234-4b12-a123-000000000012",
-    "title": "T-012 Application Code and Configuration Disclosure",
+    "title": "Application Code and Configuration Disclosure",
     "status": "Open",
     "severity": "Medium",
     "type": "Information Disclosure",
@@ -571,7 +571,7 @@
   },
   {
     "id": "de78c3b5-1234-4b12-a123-000000000013",
-    "title": "T-013 Sales Data Disclosure",
+    "title": "Sales Data Disclosure",
     "status": "Open",
     "severity": "Medium",
     "type": "Information Disclosure",
@@ -584,7 +584,7 @@
   },
   {
     "id": "ee78c3b5-1234-4b12-a123-000000000014",
-    "title": "T-014 Web Application Server DoS",
+    "title": "Web Application Server DoS",
     "status": "Open",
     "severity": "Medium",
     "type": "Denial of Service",
@@ -597,7 +597,7 @@
   },
   {
     "id": "fe78c3b5-1234-4b12-a123-000000000015",
-    "title": "T-015 MongoDB Database DoS",
+    "title": "MongoDB Database DoS",
     "status": "Open",
     "severity": "Low",
     "type": "Denial of Service",
@@ -610,7 +610,7 @@
   },
   {
     "id": "0f78c3b5-1234-4b12-a123-000000000016",
-    "title": "T-016 Customer to Staff Privilege Escalation",
+    "title": "Customer to Staff Privilege Escalation",
     "status": "Open",
     "severity": "High",
     "type": "Elevation of Privilege",
@@ -623,7 +623,7 @@
   },
   {
     "id": "1a78c3b5-1234-4b12-a123-000000000017",
-    "title": "T-017 Barista/Manager to Administrator Privilege Escalation",
+    "title": "Barista/Manager to Administrator Privilege Escalation",
     "status": "Open",
     "severity": "High",
     "type": "Elevation of Privilege",
@@ -636,7 +636,7 @@
   },
   {
     "id": "2b78c3b5-1234-4b12-a123-000000000018",
-    "title": "T-018 Horizontal Privilege Escalation",
+    "title": "Horizontal Privilege Escalation",
     "status": "Open",
     "severity": "Medium",
     "type": "Elevation of Privilege",
